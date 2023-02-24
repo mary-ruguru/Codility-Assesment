@@ -18,4 +18,5 @@ def compare_numbers(a, b)
  # 5 is greater than 4
 # -4 is greater than -7
 # 2 is equal to 2
+# 3 is smaller than 5
   
